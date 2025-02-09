@@ -75,10 +75,10 @@ h1{
             </form>
             <table class="table table-bordered table-striped" style="margin-top:20px;">
                 <thead>
-                    <th>ID de l'utilisateur</th>
-                    <th> Prénom</th>
-                    <th>Nom</th>
-                    <th>Adresse</th>
+                    <th style="width: 10%; text-align: center;">ID</th>
+                    <th style="width: 15%;">Prénom</th>
+                    <th style="width:15%;">Nom</th>
+                    <th style="width: 32%;">Club</th>
                     <th>Action</th>
                 </thead>
                 <tbody>
@@ -87,7 +87,7 @@ h1{
                         if ($search == '' || stripos($row->firstname, $search) !== false || stripos($row->lastname, $search) !== false || stripos($row->address, $search) !== false) {
                             ?>
                             <tr>
-                                <td><?php echo $row->id; ?></td>
+                                <td style="text-align: center;"><?php echo $row->id; ?></td>
                                 <td><?php echo $row->firstname; ?></td>
                                 <td><?php echo $row->lastname; ?></td>
                                 <td><?php echo $row->address; ?></td>

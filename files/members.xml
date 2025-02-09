@@ -19,12 +19,6 @@
     <address>man united</address>
   </user>
   <user>
-    <id>4</id>
-    <firstname>sofyan</firstname>
-    <lastname>amrabat</lastname>
-    <address>fanarbakhcha</address>
-  </user>
-  <user>
     <id>8</id>
     <firstname>azzedin</firstname>
     <lastname>ounahi</lastname>
@@ -44,8 +38,10 @@
   </user>
   <user>
     <id>4</id>
-    <firstname>achraf</firstname>
-    <lastname>dari</lastname>
-    <address>al ahly</address>
+    <firstname>achraf dari</firstname>
+    <lastname>dari achraf</lastname>
+    <address>al ahly fc</address>
   </user>
+  
+  
 </users>
