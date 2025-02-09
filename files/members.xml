@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <id>7</id>
+    <firstname>hakim</firstname>
+    <lastname>ziyech</lastname>
+    <address>dhil</address>
+  </user>
+  <user>
+    <id>2</id>
+    <firstname>acharf</firstname>
+    <lastname>hakimi</lastname>
+    <address>psg</address>
+  </user>
+  <user>
+    <id>3</id>
+    <firstname>noussair</firstname>
+    <lastname>mazraoui</lastname>
+    <address>man united</address>
+  </user>
+  <user>
+    <id>4</id>
+    <firstname>sofyan</firstname>
+    <lastname>amrabat</lastname>
+    <address>fanarbakhcha</address>
+  </user>
+  <user>
+    <id>8</id>
+    <firstname>azzedin</firstname>
+    <lastname>ounahi</lastname>
+    <address>pana</address>
+  </user>
+  <user>
+    <id>5</id>
+    <firstname>nayef</firstname>
+    <lastname>agured</lastname>
+    <address>real sosidad</address>
+  </user>
+  <user>
+    <id>19</id>
+    <firstname>youssef</firstname>
+    <lastname>en-nesyri</lastname>
+    <address>fanarbakhcha</address>
+  </user>
+  <user>
+    <id>4</id>
+    <firstname>achraf</firstname>
+    <lastname>dari</lastname>
+    <address>al ahly</address>
+  </user>
+</users>
