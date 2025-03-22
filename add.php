@@ -19,7 +19,6 @@ if (isset($_POST['add'])) {
     $user->addChild('lastname', $_POST['lastname']);
     $user->addChild('address', $_POST['address']);
 
-    // Save the updated XML file
     $dom = new DomDocument();
     $dom->preserveWhiteSpace = false;
     $dom->formatOutput = true;

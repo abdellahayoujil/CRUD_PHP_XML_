@@ -39,6 +39,7 @@ table th {
 }
 h1{
     color:blue;
+    font-weight: bold;
 }
     </style>
 </head>
